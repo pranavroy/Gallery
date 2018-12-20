@@ -1,2 +1,2 @@
 # Gallery
-Friends gallery
+A html Friends gallery
